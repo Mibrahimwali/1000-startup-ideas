@@ -13,6 +13,7 @@ Startup Ideas · Business Ideas · SaaS Ideas · AI Startup · Innovation
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [AI Tourism Recommendation Platform](ideas/2026/06/ai-tourism-recommendation-platform.md) | Latest |
 
 | Article | Added |
 |---------|-------|

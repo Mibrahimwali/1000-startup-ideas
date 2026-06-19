@@ -13,6 +13,7 @@ Startup Ideas · Business Ideas · SaaS Ideas · AI Startup · Innovation
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Sports Fan Token Platform](ideas/2026/06/sports-fan-token-platform.md) | Latest |
 | [Restaurant Intelligence SaaS](ideas/2026/06/restaurant-intelligence-saas.md) | Latest |
 | [AI Tourism Recommendation Platform](ideas/2026/06/ai-tourism-recommendation-platform.md) | Latest |
 
